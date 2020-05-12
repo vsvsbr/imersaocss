@@ -1,9 +1,9 @@
 /* Aula inicial :D */
 body {
     background: #55bbff;
+    background-image: url('http://www.vanessametonini.com.br/imersaocss/a1/img/fundo.jpg');
+    background-size: auto 100vh;
     font-family: Arial;
-    /*background-image: url();*/
-    /*background-size: auto 100vh;*/
     height: 100vh;
   }
   
