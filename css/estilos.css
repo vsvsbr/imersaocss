@@ -1,0 +1,47 @@
+/* Aula inicial :D */
+body {
+    background: #55bbff;
+    font-family: Arial;
+    /*background-image: url();*/
+    /*background-size: auto 100vh;*/
+    height: 100vh;
+  }
+  
+  a {
+    color: #3399dd;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* menu*/
+  .menu {
+    background-color: white;
+  }
+  
+  .menu a {
+    font-weight:bold;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    color: #ddd;
+    font-style: italic;
+  }
+  
